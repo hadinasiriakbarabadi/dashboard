@@ -1,6 +1,7 @@
-import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
+/// <reference types="@angular/localize" />
 
-import { AppModule } from './app/app.module';
+import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
+import { AppModule } from './presentation/app/app.module';
 
 
 platformBrowserDynamic().bootstrapModule(AppModule)

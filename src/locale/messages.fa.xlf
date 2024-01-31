@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="4550958265168690830" datatype="html">
+        <source>Logo</source>
+        <target>لوگو</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/header/header.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7551597812674642082" datatype="html">
+        <source>Surender</source>
+        <target>نام</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/header/header.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4124196066738399311" datatype="html">
+        <source>SN</source>
+        <target>سریال</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/header/header.component.html</context>
+          <context context-type="linenumber">5,6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3759754242861137353" datatype="html">
+        <source>Last few transactions</source>
+        <target>تراکنش آخر</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/last-few-transactions/last-few-transactions.component.html</context>
+          <context context-type="linenumber">2,3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6570363013146073520" datatype="html">
+        <source>Dashboard</source>
+        <target>داشبورد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/side-nav/side-nav.component.html</context>
+          <context context-type="linenumber">4,5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4022066031214545422" datatype="html">
+        <source>Locations</source>
+        <target>مکان</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/side-nav/side-nav.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/top-widgets/top-widgets.component.html</context>
+          <context context-type="linenumber">8,9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6615038322387416806" datatype="html">
+        <source>Shops</source>
+        <target>فروشگاه</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/side-nav/side-nav.component.html</context>
+          <context context-type="linenumber">12,13</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/top-widgets/top-widgets.component.html</context>
+          <context context-type="linenumber">17,18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6707361102856436710" datatype="html">
+        <source>Products</source>
+        <target>محصولات</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/side-nav/side-nav.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7197870580140559288" datatype="html">
+        <source>Sales</source>
+        <target>فروش</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/side-nav/side-nav.component.html</context>
+          <context context-type="linenumber">20,21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1069523139277190436" datatype="html">
+        <source>Statistics</source>
+        <target>آمار</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/side-nav/side-nav.component.html</context>
+          <context context-type="linenumber">24,25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7922989125096435449" datatype="html">
+        <source>Contact</source>
+        <target>مخاطب</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/side-nav/side-nav.component.html</context>
+          <context context-type="linenumber">28,29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7911416166208830577" datatype="html">
+        <source>Help</source>
+        <target>راهنما</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/side-nav/side-nav.component.html</context>
+          <context context-type="linenumber">32,33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="978665088271864757" datatype="html">
+        <source>32</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/top-widgets/top-widgets.component.html</context>
+          <context context-type="linenumber">7,8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7597211182173786147" datatype="html">
+        <source>295</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/top-widgets/top-widgets.component.html</context>
+          <context context-type="linenumber">16,17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1585122849254623421" datatype="html">
+        <source>45784</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/top-widgets/top-widgets.component.html</context>
+          <context context-type="linenumber">25,26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7802828424926007962" datatype="html">
+        <source>Products Sold</source>
+        <target>آمار فروخته شده</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/top-widgets/top-widgets.component.html</context>
+          <context context-type="linenumber">26,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6948183763628896063" datatype="html">
+        <source>346928</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/top-widgets/top-widgets.component.html</context>
+          <context context-type="linenumber">34,35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3620290412817563324" datatype="html">
+        <source>Total Revenue</source>
+        <target>کل درآمد</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/presentation/app/top-widgets/top-widgets.component.html</context>
+          <context context-type="linenumber">35,36</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
