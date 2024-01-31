@@ -5,11 +5,12 @@
   "projects": {
     "dashboard": {
       "i18n": {
-        "sourceLocale":"en-US",
+        "sourceLocale": "en-US",
         "locales": {
-          "fa":{
-            "translation":"src/locale/messages.fa.xlf",
-          "baseHref": "fa-IR"}
+          "fa": {
+            "translation": "src/locale/messages.fa.xlf",
+            "baseHref": "fa-IR"
+          }
         }
       },
       "projectType": "application",
@@ -31,7 +32,9 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "localize":["fa"],
+            "localize": [
+              "fa"
+            ],
             "outputPath": "dist/dashboard",
             "index": "src/index.html",
             "browser": "src/main.ts",
