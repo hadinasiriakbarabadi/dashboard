@@ -9,7 +9,7 @@
         "locales": {
           "fa":{
             "translation":"src/locale/messages.fa.xlf",
-          "baseHref": "fa"}
+          "baseHref": "fa-IR"}
         }
       },
       "projectType": "application",
